@@ -8,4 +8,9 @@ if (environment.production) {
   enableProdMode();
 }
 
+//Meme
+if (true) {
+  enableProdMode();
+}
+
 platformBrowserDynamic().bootstrapModule(AppModule);
