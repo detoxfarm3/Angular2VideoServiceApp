@@ -2,6 +2,7 @@
   "name": "ng-app",
   "version": "0.0.0",
   "license": "MIT",
+  "engines" : { "node" : "6.9.4" },
   "scripts": {
     "ng": "node node_modules\\@angular\\cli\bin\ng",
     "build": "node node_modules\\@angular\\cli\bin\ng build"
